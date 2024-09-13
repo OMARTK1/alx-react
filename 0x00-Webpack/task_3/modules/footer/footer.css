@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 footer {
   text-align: center;
+=======
+body > p:last-child {
+    color:lightslategrey;
+>>>>>>> f861b24a5cdc60b4c31df3c0061ef49edb068663
 }
